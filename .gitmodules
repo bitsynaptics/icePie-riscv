@@ -1,0 +1,6 @@
+[submodule "picorv32"]
+	path = picorv32
+	url = https://github.com/bitsynaptics/picorv32
+[submodule "learn-fpga"]
+	path = learn-fpga
+	url = https://github.com/bitsynaptics/learn-fpga
