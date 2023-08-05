@@ -1,7 +1,5 @@
 # icePie FPGA devkit - RiscV Examples
 
-![icePie-FPGA-devkit](/icepie-examples/docs/icePie-FPGA-devkit.jpg)
-
 Examples codes demonstrating implementation of RiscV softcores on the icePie FPGA devkit.
 
 ## Requirements
